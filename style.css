@@ -1,0 +1,32 @@
+img {
+    border-radius: 75px;
+  }
+  
+h2 {
+    font-size: 18px;
+  }
+  
+body {
+    background: linear-gradient(to right, slateblue, lightblue);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-align: center;
+  }
+  
+a {
+  background-color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+  margin: 10px;
+  color: slateblue; 
+  text-decoration: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+a:hover {
+    color: yellow;
+    background-color: blueviolet;
+  }
